@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/UvinduBro/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/neth1841")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
