@@ -38,12 +38,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Github Link", url="https://github.com/neth1841"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/UvinduBro_BOTs"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/UvinduBr")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/NBOT_TEAM"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/TEAM_NBOT_GROUOP")
                 ]
             ]
         )
@@ -61,7 +61,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/UvinduBro/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://telegra.ph/file/25be2358f7cb9b457b359.jpg")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
