@@ -7,7 +7,8 @@ There is no practical limits for my filtering capacity
 simple bot which is designed and built for adding filters in any group :)
 
 See <i>/help</i> for commands and more details.</b>
-Powered By [NBOT TEAM](https://t.me/NBOT_TEAM)
+
+Powered By [ηвσт тєαм 🇱🇰](https://t.me/NBOT_TEAM)
 """
 
 
@@ -50,16 +51,16 @@ Powered By [NBOT TEAM](https://t.me/NBOT_TEAM)
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© Powered By [NBOT TEAM](https://t.me/NBOT_TEAM)</b>
+<b>© Powered By [ηвσт тєαм 🇱🇰](https://t.me/NBOT_TEAM)</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : NT Filter Bot [🙏](https://telegra.ph/file/85f955262198f5070e319.jpg)</b>
 
-⭕️<b>😴 Creater :</b> @NBOT_TEAM
+⭕️<b>✍ dev :</b> @NBOT_TEAM
 
 ⭕️<b>🧷 Language :</b> <code>Python3</code>
 
-⭕️<b>🔥 Bot Updates :</b> <a href='https://t.me/NBOT_TEAM'> NBOT TEAM </a> 
+⭕️<b>🔥 Bot Updates :</b> <a href='https://t.me/NBOT_TEAM'> ηвσт тєαм 🇱🇰 </a> 
 
 """
